@@ -7,9 +7,15 @@ Hola👋, mi nombre es Evin Lopez y soy un Developer Full Stack con 1 año de ex
 🎯 Estoy siempre en busca de nuevos retos y oportunidades para seguir creciendo como desarrollador y colaborar en proyectos que puedan marcar la diferencia. Siempre estoy dispuesto a aprender nuevas habilidades y tecnologías, y a ponerlas en práctica para crear soluciones innovadoras y de alta calidad.
 
  🟢 Aspirante a desarrollador de software 
+ 
  🟢 Aprendiz diligente en programación 
+ 
  🟢 Entusiasta por la tecnología y el aprendizaje continuo
+ 
  🟢 Capacidad para trabajar en equipo y aprender de los demás
+ 
  🟢 Buscando oportunidades para crecer como desarrollador
+ 
  🟢 Me apasiona la creación de soluciones tecnológicas
+ 
  🟢 Comprometido con la calidad del código y la práctica de buenas prácticas de programación.
