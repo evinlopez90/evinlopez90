@@ -4,7 +4,7 @@ Hola👋, mi nombre es Evin Lopez y soy un Developer Full Stack con 1 año de ex
 
 💼 Tengo experiencia trabajando en diferentes lenguajes de programación, como JavaScript y TypeScript, y en el uso de diferentes tecnologías para el desarrollo web, como React, Next js, Redux toolki, Tailwind css y Node js.  habilidades en el diseño y la implementación de bases de datos y en la creación de API's con Express js, Sql y Sequelize. 
 
-🎯 Estoy siempre en busca de nuevos retos y oportunidades para seguir creciendo como desarrollador y colaborar en proyectos que puedan marcar la diferencia. Siempre estoy dispuesto a aprender nuevas habilidades y tecnologías, y  a ponerlas en práctica para crear soluciones innovadoras y de alta calidad.
+🎯 Estoy siempre en busca de nuevos retos y oportunidades para seguir creciendo como desarrollador y colaborar en proyectos que puedan marcar la diferencia. Siempre estoy dispuesto a aprender nuevas habilidades y tecnologías, y   ponerlas en práctica para crear soluciones innovadoras y de alta calidad.
 
  🟢 Aspirante a desarrollador de software 
  
