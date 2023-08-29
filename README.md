@@ -1,4 +1,4 @@
-Hola👋, mi nombre es Evin Lopez y soy un Developer Full Stack con 1 año de experiencia en el desarrollo de aplicaciones web. 
+Hola!, mi nombre es Evin Lopez,  con  mas de 1 año de experiencia en el desarrollo de aplicaciones web. 
 
 ❤️ Soy un apasionado de la tecnología y me encanta trabajar en proyectos desafiantes que me permitan seguir aprendiendo y mejorando mis habilidades. Como desarrollador Full Stack, puedo manejar tanto el lado del servidor como el del cliente, lo que me permite crear soluciones tecnológicas completas y coherentes.
 
